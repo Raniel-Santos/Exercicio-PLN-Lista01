@@ -5,13 +5,13 @@
   
 Realize a clonagem do repositório
 ```
-git clone https://github.com/Raniel-Santos/Exercicio-PLN-Lista01.git```
-
-Se desejar criar um ambiente virtual, Utilize sua IDE e crie o ambiente virtual Python:
+git clone https://github.com/Raniel-Santos/Exercicio-PLN-Lista01.git
 ```
-bash(ou cmd)
-python3 -m venv env```
+Se desejar criar um ambiente virtual, Utilize sua IDE e crie o ambiente virtual Python:
 
+```
+python3 -m venv env
+```
 Entrar no diretório e ativar o ambiente virtual
 ```
 cd venv/Scripts/activate
